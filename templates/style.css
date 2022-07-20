@@ -186,7 +186,29 @@ ion-icon {
   pointer-events: none;
 }
 
-//
+
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap");
+
+
+.bodyy{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background:white;
+  font-family: "Poppins", sans-serif;
+}
+
+
+
+
+
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 
 
 .wrapperr{
